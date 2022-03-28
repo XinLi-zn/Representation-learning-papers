@@ -1,3 +1,5 @@
+
+
 # Representation learning Papers
 
 ### Masked Image Modeling
@@ -30,22 +32,16 @@ Hangbo Bao, Li Dong, Furu Wei
 
 + **MST** - MST: Masked Self-Supervised Transformer for Visual Representation  (NeurIPS 2021)   
 Zhaowen Li, Zhiyang Chen, Fan Yang, Wei Li, Yousong Zhu, Chaoyang Zhao, Rui Deng, Liwei Wu, Rui Zhao, Ming Tang, Jinqiao Wang  
-[[paper](https://arxiv.org/abs/2106.05656)]  
-
-<details>
-<summary>Notes</summary>
-```vue
-![avatar](imgs/MST.png)
-```
-</details>
-  
+[[paper](https://arxiv.org/abs/2106.05656)]
+    <details> <summary>Notes</summary><img src="imgs/MST.png" width = "521" height = "262" alt="MST" align=center /> <div align=center>
+    </div></details>
   
 
 ### Contrastive Learning
 
 + **MoBY** - Self-Supervised Learning with Swin Transformers  (arXiv 2021)   
 Chunyuan Li, Jianwei Yang, Pengchuan Zhang, Mei Gao, Bin Xiao, Xiyang Dai, Lu Yuan, Jianfeng Gao  
-[[paper](https://arxiv.org/abs/2106.09785)]  [[code] (https://github.com/SwinTransformer/Transformer-SSL)] 
+[[paper](https://arxiv.org/abs/2106.09785)]  [[code](https://github.com/SwinTransformer/Transformer-SSL)] 
 
 + **MoCo_v3** - An Empirical Study of Training Self-Supervised Vision Transformers (ICCV 2021)  
 Xinlei Chen, Saining Xie, Kaiming He   
