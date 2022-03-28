@@ -28,7 +28,7 @@ Zhenda Xie, Yutong Lin, Zhuliang Yao, Zheng Zhang, Qi Dai, Yue Cao, Han Hu
 Hangbo Bao, Li Dong, Furu Wei  
 [[paper](https://arxiv.org/abs/2106.08254)]  [[code](https://github.com/microsoft/unilm/tree/master/beit)] 
 
-### Contrastive learning
+### Contrastive Learning
 
 + **MoBY** - Self-Supervised Learning with Swin Transformers  (arXiv 2021)   
 Chunyuan Li, Jianwei Yang, Pengchuan Zhang, Mei Gao, Bin Xiao, Xiyang Dai, Lu Yuan, Jianfeng Gao  
