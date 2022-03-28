@@ -28,6 +28,19 @@ Zhenda Xie, Yutong Lin, Zhuliang Yao, Zheng Zhang, Qi Dai, Yue Cao, Han Hu
 Hangbo Bao, Li Dong, Furu Wei  
 [[paper](https://arxiv.org/abs/2106.08254)]  [[code](https://github.com/microsoft/unilm/tree/master/beit)] 
 
++ **MST** - MST: Masked Self-Supervised Transformer for Visual Representation  (NeurIPS 2021)   
+Zhaowen Li, Zhiyang Chen, Fan Yang, Wei Li, Yousong Zhu, Chaoyang Zhao, Rui Deng, Liwei Wu, Rui Zhao, Ming Tang, Jinqiao Wang  
+[[paper](https://arxiv.org/abs/2106.05656)]  
+
+<details>
+<summary>Notes</summary>
+```vue
+![avatar](imgs/MST.png)
+```
+</details>
+  
+  
+
 ### Contrastive Learning
 
 + **MoBY** - Self-Supervised Learning with Swin Transformers  (arXiv 2021)   
