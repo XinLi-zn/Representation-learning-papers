@@ -37,6 +37,17 @@ Zhaowen Li, Zhiyang Chen, Fan Yang, Wei Li, Yousong Zhu, Chaoyang Zhao, Rui Deng
     </div></details>
   
 
++ **VIT** - An image is worth 16x16 words: Transformers for image recognition at scale  (ICLR 2021)   
+Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby   
+[[paper](https://arxiv.org/pdf/2010.11929.pdf)] [[code](https://github.com/google-research/vision_transformer)]
+  <details>
+    <summary>Notes</summary>
+     <img src="imgs/sot/referformer.png" width = "552" height = "258" alt="referformer" align=center />  
+    - Key idea:
+         - 
+     - Performance:
+        - 
+    </details>
 ### Contrastive Learning
 
 + **MoBY** - Self-Supervised Learning with Swin Transformers  (arXiv 2021)   
