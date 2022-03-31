@@ -89,4 +89,9 @@ Ting Chen, Simon Kornblith, Mohammad Norouzi, Geoffrey Hinton
 
 
 
+### Transformer
+
++ **DW-ViT** - Beyond Fixation: Dynamic Window Visual Transformer (CVPR 2022) 
+Pengzhen Ren, Changlin Li, Guangrun Wang, Yun Xiao, Qing Du, Xiaodan Liang, Xiaojun Chang  
+[[paper](https://arxiv.org/abs/2203.12856)]  [[code](https://github.com/pzhren/DW-ViT)]  
 
