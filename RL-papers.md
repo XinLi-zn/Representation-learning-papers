@@ -2,6 +2,12 @@
 
 # Representation learning Papers
 
+### Big Vision Models  
++ A Roadmap for Big Model (arXiv 2022)  
+Sha Yuan, Hanyu Zhao, et al..   
+[[paper](https://arxiv.org/pdf/2203.14101.pdf)]  
+
+
 ### Masked Image Modeling
 
 
