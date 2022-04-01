@@ -2,10 +2,21 @@
 
 # Representation learning Papers
 
+### Transformer
+
++ **DW-ViT** - Beyond Fixation: Dynamic Window Visual Transformer (CVPR 2022) 
+Pengzhen Ren, Changlin Li, Guangrun Wang, Yun Xiao, Qing Du, Xiaodan Liang, Xiaojun Chang  
+[[paper](https://arxiv.org/abs/2203.12856)]  [[code](https://github.com/pzhren/DW-ViT)]  
+
++ **Swin** - Swin Transformer: Hierarchical Vision Transformer using Shifted Windows (ICCV 2021) 
+Ze Liu, Yutong Lin, Yue Cao, Han Hu, Yixuan Wei, Zheng Zhang, Stephen Lin, Baining Guo  
+[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.pdf)]  [[code](https://github.com/microsoft/Swin-Transformer)]  
+
 ### Big Vision Models  
 + A Roadmap for Big Model (arXiv 2022)  
 Sha Yuan, Hanyu Zhao, et al..   
 [[paper](https://arxiv.org/pdf/2203.14101.pdf)]  
+
 
 
 ### Masked Image Modeling
@@ -95,9 +106,5 @@ Ting Chen, Simon Kornblith, Mohammad Norouzi, Geoffrey Hinton
 
 
 
-### Transformer
 
-+ **DW-ViT** - Beyond Fixation: Dynamic Window Visual Transformer (CVPR 2022) 
-Pengzhen Ren, Changlin Li, Guangrun Wang, Yun Xiao, Qing Du, Xiaodan Liang, Xiaojun Chang  
-[[paper](https://arxiv.org/abs/2203.12856)]  [[code](https://github.com/pzhren/DW-ViT)]  
 
