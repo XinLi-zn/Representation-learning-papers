@@ -4,6 +4,10 @@
 
 ### Transformer
 
++ **DVT** - Deformable Video Transformer (CVPR 2022)  
+Jue Wang, Lorenzo Torresani   
+[[paper](https://arxiv.org/pdf/2203.16795.pdf)]  [code]  
+
 + **DW-ViT** - Beyond Fixation: Dynamic Window Visual Transformer (CVPR 2022) 
 Pengzhen Ren, Changlin Li, Guangrun Wang, Yun Xiao, Qing Du, Xiaodan Liang, Xiaojun Chang  
 [[paper](https://arxiv.org/abs/2203.12856)]  [[code](https://github.com/pzhren/DW-ViT)]  
@@ -67,6 +71,10 @@ Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua
     </details>
 ### Contrastive Learning
 
++ **LoGo** - Leverage Your Local and Global Representations: A New Self-Supervised Learning Strategy  (arXiv 2021)   
+Tong Zhang, Congpei Qiu, Wei Ke, Sabine Süsstrunk, Mathieu Salzmann   
+[[paper](https://arxiv.org/pdf/2203.17205.pdf)]  [[code](https://github.com/ztt1024/LoGo-SSL)]  
+
 + **MoBY** - Self-Supervised Learning with Swin Transformers  (arXiv 2021)   
 Chunyuan Li, Jianwei Yang, Pengchuan Zhang, Mei Gao, Bin Xiao, Xiyang Dai, Lu Yuan, Jianfeng Gao  
 [[paper](https://arxiv.org/abs/2106.09785)]  [[code](https://github.com/SwinTransformer/Transformer-SSL)] 
@@ -105,6 +113,14 @@ Ting Chen, Simon Kornblith, Mohammad Norouzi, Geoffrey Hinton
 [[paper](https://arxiv.org/abs/2002.05709)]  [[code](https://github.com/google-research/simclr)]  
 
 
+### Others
++ ** ** - Exploiting Explainable Metrics for Augmented SGD (CVPR 2022) 
+Mahdi S. Hosseini, Mathieu Tuli, Konstantinos N. Plataniotis   
+[[paper](https://arxiv.org/pdf/2203.16723.pdf)]  [[code](https://github.com/mahdihosseini/RMSGD)]  
+
++ ** ** - Controllable Augmentations for Video Representation Learning (arXiv 2022)  
+Rui Qian, Weiyao Lin, John See, Dian Li   
+[[paper](https://arxiv.org/pdf/2203.16632.pdf)]  [code]  
 
 
 
