@@ -6,14 +6,14 @@
 
 + **DVT** - Deformable Video Transformer (CVPR 2022)  
 Jue Wang, Lorenzo Torresani   
-[[paper](https://arxiv.org/pdf/2203.16795.pdf)]  [code]  
+[[paper](https://arxiv.org/pdf/2203.16795.pdf)]  [code]   
 
-+ **DW-ViT** - Beyond Fixation: Dynamic Window Visual Transformer (CVPR 2022) 
-Pengzhen Ren, Changlin Li, Guangrun Wang, Yun Xiao, Qing Du, Xiaodan Liang, Xiaojun Chang  
++ **DW-ViT** - Beyond Fixation: Dynamic Window Visual Transformer (CVPR 2022)  
+Pengzhen Ren, Changlin Li, Guangrun Wang, Yun Xiao, Qing Du, Xiaodan Liang, Xiaojun Chang   
 [[paper](https://arxiv.org/abs/2203.12856)]  [[code](https://github.com/pzhren/DW-ViT)]  
 
-+ **Swin** - Swin Transformer: Hierarchical Vision Transformer using Shifted Windows (ICCV 2021) 
-Ze Liu, Yutong Lin, Yue Cao, Han Hu, Yixuan Wei, Zheng Zhang, Stephen Lin, Baining Guo  
++ **Swin** - Swin Transformer: Hierarchical Vision Transformer using Shifted Windows (ICCV 2021)  
+Ze Liu, Yutong Lin, Yue Cao, Han Hu, Yixuan Wei, Zheng Zhang, Stephen Lin, Baining Guo   
 [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.pdf)]  [[code](https://github.com/microsoft/Swin-Transformer)]  
 
 ### Big Vision Models  
@@ -26,12 +26,12 @@ Sha Yuan, Hanyu Zhao, et al..
 ### Masked Image Modeling
 
 
-+ **MAE** - Masked Autoencoders Are Scalable Vision Learners (CVPR 2022)  
++ **MAE** - Masked Autoencoders Are Scalable Vision Learners (CVPR 2022)   
 Kaiming He, Xinlei Chen, Saining Xie, Yanghao Li, Piotr Dollár, and Ross Girshick   
 [[paper](https://arxiv.org/abs/2111.06377)] [[code](https://github.com/facebookresearch/mae)]   
 
 
-+ **SimMIM** - SimMIM: A Simple Framework for Masked Image Modeling (arXiv 2021-11)
++ **SimMIM** - SimMIM: A Simple Framework for Masked Image Modeling (arXiv 2021-11)  
 Zhenda Xie, Zheng Zhang, Yue Cao, Yutong Lin, Jianmin Bao, Zhuliang Yao, Qi Dai, Han Hu  
 [[paper](https://arxiv.org/abs/2111.09886)]  [[code](https://github.com/microsoft/SimMIM)]
 
@@ -43,7 +43,7 @@ Jinghao Zhou, Chen Wei, Huiyu Wang, Wei Shen, Cihang Xie, Alan Yuille, Tao Kong
 Mathilde Caron, Hugo Touvron, Ishan Misra, Hervé Jégou, Julien Mairal, Piotr Bojanowski, Armand Joulin  
 [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Caron_Emerging_Properties_in_Self-Supervised_Vision_Transformers_ICCV_2021_paper.pdf)]  [[code](https://github.com/facebookresearch/dino)]   
 
-+ **EsViT** - Efficient Self-supervised Vision Transformers for Representation Learning  (arXiv 2021)   
++ **EsViT** - Efficient Self-supervised Vision Transformers for Representation Learning  (arXiv 2021)    
 Zhenda Xie, Yutong Lin, Zhuliang Yao, Zheng Zhang, Qi Dai, Yue Cao, Han Hu  
 [[paper](https://arxiv.org/abs/2106.09785)]    
 
