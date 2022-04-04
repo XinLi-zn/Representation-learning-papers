@@ -71,6 +71,10 @@ Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua
     </details>
 ### Contrastive Learning
 
++ On the Importance of Asymmetry for Siamese Representation Learning  (CVPR 2022)   
+Xiao Wang, Haoqi Fan, Yuandong Tian, Daisuke Kihara, Xinlei Chen   
+[[paper](https://arxiv.org/pdf/2204.00613.pdf)]  [[code]( https://github.com/facebookresearch/asym-siam)]  
+
 + **LoGo** - Leverage Your Local and Global Representations: A New Self-Supervised Learning Strategy  (arXiv 2021)   
 Tong Zhang, Congpei Qiu, Wei Ke, Sabine Süsstrunk, Mathieu Salzmann   
 [[paper](https://arxiv.org/pdf/2203.17205.pdf)]  [[code](https://github.com/ztt1024/LoGo-SSL)]  
