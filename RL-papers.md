@@ -126,5 +126,9 @@ Mahdi S. Hosseini, Mathieu Tuli, Konstantinos N. Plataniotis
 Rui Qian, Weiyao Lin, John See, Dian Li   
 [[paper](https://arxiv.org/pdf/2203.16632.pdf)]  [code]  
 
++ ** ** - mc-BEiT: Multi-choice Discretization for Image BERT Pre-training (arXiv 2022)   
+Xiaotong Li, Yixiao Ge, Kun Yi, Zixuan Hu, Ying Shan, Ling-Yu Duan   
+[[paper](https://arxiv.org/abs/2203.15371)]  [code]  
+
 
 
