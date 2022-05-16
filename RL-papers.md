@@ -70,6 +70,11 @@ Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua
         - 
     </details>
 ### Contrastive Learning
+CoCa: Contrastive Captioners are Image-Text Foundation Models
+
++ CoCa: Contrastive Captioners are Image-Text Foundation Models (arXiv 2022-05)   
+Jiahui Yu, Zirui Wang, Vijay Vasudevan, Legg Yeung, Mojtaba Seyedhosseini, Yonghui Wu   
+[[paper](https://arxiv.org/pdf/2205.01917.pdf)]  [[code]()]  
 
 + On the Importance of Asymmetry for Siamese Representation Learning  (CVPR 2022)   
 Xiao Wang, Haoqi Fan, Yuandong Tian, Daisuke Kihara, Xinlei Chen   
