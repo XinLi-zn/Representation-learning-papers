@@ -26,6 +26,12 @@ Sha Yuan, Hanyu Zhao, et al..
 ### Masked Image Modeling
 
 
++ **DIMAE** - Domain Invariant Masked Autoencoders for Self-supervised Learning from Multi-domains (arXiv 2022-05)   
+Haiyang Yang, Meilin Chen, Yizhou Wang, Shixiang Tang, Feng Zhu, Lei Bai, Rui Zhao, Wanli Ouyang   
+[[paper](https://arxiv.org/abs/2205.04771)] [[code]()]   
+
+
+
 + **MAE** - Masked Autoencoders Are Scalable Vision Learners (CVPR 2022)   
 Kaiming He, Xinlei Chen, Saining Xie, Yanghao Li, Piotr Dollár, and Ross Girshick   
 [[paper](https://arxiv.org/abs/2111.06377)] [[code](https://github.com/facebookresearch/mae)]   
