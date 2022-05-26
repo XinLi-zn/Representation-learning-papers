@@ -37,7 +37,7 @@ Kaiming He, Xinlei Chen, Saining Xie, Yanghao Li, Piotr Dollár, and Ross Girshi
 [[paper](https://arxiv.org/abs/2111.06377)] [[code](https://github.com/facebookresearch/mae)]   
 
 
-+ **SimMIM** - SimMIM: A Simple Framework for Masked Image Modeling (arXiv 2021-11)  
++ **SimMIM** - SimMIM: A Simple Framework for Masked Image Modeling (cvpr 2022)  
 Zhenda Xie, Zheng Zhang, Yue Cao, Yutong Lin, Jianmin Bao, Zhuliang Yao, Qi Dai, Han Hu  
 [[paper](https://arxiv.org/abs/2111.09886)]  [[code](https://github.com/microsoft/SimMIM)]
 
