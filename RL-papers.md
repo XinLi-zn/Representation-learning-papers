@@ -25,6 +25,11 @@ Sha Yuan, Hanyu Zhao, et al..
 
 ### Masked Image Modeling
 
++ **MaskFeat** - Masked Autoencoders As Spatiotemporal Learners (arXiv 2022-05)   
+Christoph Feichtenhofer∗ Haoqi Fan∗ Yanghao Li Kaiming He   
+[[paper](https://arxiv.org/pdf/2205.09113.pdf)] [[code]()]   
+
+
 + **MaskFeat** - Masked Feature Prediction for Self-Supervised Visual Pre-Training (arXiv 2022-05)   
 Chen Wei, Haoqi Fan, Saining Xie, Chao-Yuan Wu, Alan Yuille, Christoph Feichtenhofer   
 [[paper](https://arxiv.org/abs/2112.09133)] [[code](https://github.com/facebookresearch/pytorchvideo)]   
