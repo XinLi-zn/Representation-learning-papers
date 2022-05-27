@@ -25,11 +25,14 @@ Sha Yuan, Hanyu Zhao, et al..
 
 ### Masked Image Modeling
 
++ **MaskFeat** - Masked Feature Prediction for Self-Supervised Visual Pre-Training (arXiv 2022-05)   
+Chen Wei, Haoqi Fan, Saining Xie, Chao-Yuan Wu, Alan Yuille, Christoph Feichtenhofer   
+[[paper](https://arxiv.org/abs/2112.09133)] [[code](https://github.com/facebookresearch/pytorchvideo)]   
+
 
 + **DIMAE** - Domain Invariant Masked Autoencoders for Self-supervised Learning from Multi-domains (arXiv 2022-05)   
 Haiyang Yang, Meilin Chen, Yizhou Wang, Shixiang Tang, Feng Zhu, Lei Bai, Rui Zhao, Wanli Ouyang   
 [[paper](https://arxiv.org/abs/2205.04771)] [[code]()]   
-
 
 
 + **MAE** - Masked Autoencoders Are Scalable Vision Learners (CVPR 2022)   
