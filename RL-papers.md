@@ -25,6 +25,10 @@ Sha Yuan, Hanyu Zhao, et al..
 
 ### Masked Image Modeling
 
++ ** ** - Revealing the Dark Secrets of Masked Image Modeling (arXiv 2022-05)   
+Zhenda Xie, Zigang Geng, Jingcheng Hu, Zheng Zhang, Han Hu, Yue Cao   
+[[paper](https://arxiv.org/pdf/2205.13543.pdf)] [[code]()]   
+
 + **MaskFeat** - Masked Autoencoders As Spatiotemporal Learners (arXiv 2022-05)   
 Christoph Feichtenhofer∗ Haoqi Fan∗ Yanghao Li Kaiming He   
 [[paper](https://arxiv.org/pdf/2205.09113.pdf)] [[code]()]   
