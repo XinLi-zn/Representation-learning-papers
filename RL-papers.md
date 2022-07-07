@@ -16,6 +16,22 @@ Pengzhen Ren, Changlin Li, Guangrun Wang, Yun Xiao, Qing Du, Xiaodan Liang, Xiao
 Ze Liu, Yutong Lin, Yue Cao, Han Hu, Yixuan Wei, Zheng Zhang, Stephen Lin, Baining Guo   
 [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.pdf)]  [[code](https://github.com/microsoft/Swin-Transformer)]  
 
+### Backbone improvements
+
++ **ContextPool** - Efficient Representation Learning via Adaptive Context Pooling (ICML 2022)  
+Chen Huang, Walter Talbott, Navdeep Jaitly, Josh Susskind   
+[[paper](https://arxiv.org/pdf/2207.01844.pdf)]  
+  <details>
+    <summary>Notes</summary>
+     <img src="imgs/sot/contextpool.png" width = "552" height = "258" alt="referformer" align=center />  
+    - Key idea:
+         - 
+     - Performance:
+        - 
+    </details>
+
+
+
 ### Big Vision Models  
 + A Roadmap for Big Model (arXiv 2022)  
 Sha Yuan, Hanyu Zhao, et al..   
