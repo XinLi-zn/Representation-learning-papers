@@ -20,16 +20,16 @@ Ze Liu, Yutong Lin, Yue Cao, Han Hu, Yixuan Wei, Zheng Zhang, Stephen Lin, Baini
 
 + **ContextPool** - Efficient Representation Learning via Adaptive Context Pooling (ICML 2022)  
 Chen Huang, Walter Talbott, Navdeep Jaitly, Josh Susskind   
-[[paper](https://arxiv.org/pdf/2207.01844.pdf)]  
+[[paper](https://arxiv.org/pdf/2207.01844.pdf)]   
   <details>
     <summary>Notes</summary>
-     <img src="imgs/sot/contextpool.png" width = "552" height = "258" alt="referformer" align=center />  
-    - Key idea:
-         - 
-     - Performance:
-        - 
+     <img src="imgs/contextpool.png" width = "615" height = "218" alt="referformer" align=center />  
+  
+    - Key idea:  
+         - Proposing ContextPool to adapte the attention granularity for each token by pooling neighboring features, where the pooling weights and support size are adaptively determined, allowing the pooled features to encode meaningful context with varying scale.  
+     - Performance:  
+        - ImageNet-1K (top1 accuracy). Improves Swin-B from 83.5 to 84.3 and 84.5 to 85.6 with image sizes of 224 and 384, respectively.   
     </details>
-
 
 
 ### Big Vision Models  
